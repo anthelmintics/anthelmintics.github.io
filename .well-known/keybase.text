@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/tpepin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://anthelmintics.net
+  * I am tpepin (https://keybase.io/tpepin) on keybase.
+  * I have a public key with fingerprint 30F5 4991 8886 DE81 C187  A0BA 02E5 217A AD05 04DA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011623a643d30b5df2b59db8936a006d5e5db936ef3ef12a3a5f2f89a9c90c34470a",
+            "fingerprint": "30f549918886de81c187a0ba02e5217aad0504da",
+            "host": "keybase.io",
+            "key_id": "02e5217aad0504da",
+            "kid": "01011623a643d30b5df2b59db8936a006d5e5db936ef3ef12a3a5f2f89a9c90c34470a",
+            "uid": "03ddcf50fad154e277e4b0f096d15119",
+            "username": "tpepin"
+        },
+        "service": {
+            "hostname": "anthelmintics.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1496972609,
+    "expire_in": 157680000,
+    "prev": "6a7892caf6acf9259770fc6269a445e98b35ac851fee3762137743363c524f61",
+    "seqno": 45,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.71
+Comment: https://keybase.io/crypto
+
+yMNFAnicrVJrUFRlGF6QSwG6Okyljo1wBP0BwrlfVi2xKQmUzaGAAN2+c8534CDs
+bruH5bKhXAYHqhEap1FZpYmUEobiMsCYUcNlgkka2HFkihCkWBgZSChn4hJb56T9
+6m/fn2/e932e533ed96BzZt0QT6+nvDiFn+/cZ/bva583ZvcRpwT4S1iEWJwIqfh
+Px/MFaFdMZ2WRcSAoBiKYTROAJokRALlKVHCeYoTeZYjaICitEhBSuTVAEoElDAc
+EICScInlACdwqECQJIMCJBqRZHMWtFltsllRZQlUokiOw1iWpUXIYgLGMgDlAYpD
+CscYAESUQklRI2Zb7BpDNccDO4yRLWpODUyP7f0X/z/7zn8sR4iiIFGoBESMIiHO
+MJDkUQnlaDXGME4D2qHNDPKgilas0CqbkZJoRM05ZAFqa9XmeFIHZiUb5uapq5AF
+e4wZKirdarMoFsGSq5azFcVqN2h0pciq4Qsgb3qiZOJls6iuUmU4oM0uW8yIAVOR
+giJr0hjJ0RyD0ygXjcBCq2yDJllDUAzNourT+kCHKkkDhuVwAUg0ECQOpziGQSWB
+xmkOkCQFOZYnKCCwFCZBSDA0jhEMQxIETQgUTko0hmizvW22IAaSUn2CLFXTLmeZ
+gZJvg0hJX2+mn84nSBfg76vdmC7o6a3/Xt7QuN5rWGu7udubVHUgLn7v/AcrrvCF
+lgOF9Z7q2aimiAIpsHQk74ZxoHlp50RVTW3xnsBdfe3vpKfdWm2LmB5r34cTc0X0
+dHujx1VRmKjzLZ1czD082tPvLw4Gn6k8whoPx7rqAuujx9gjrSFBjd/rw2+tLV88
+pa99l0tJffHkwmL/Zsxa67V+6Ah9vqmDm3XB9+4Ouy9cmSpzf4wszQ0KI+eTjEth
+q+LZ1xNeDSydfKMN+E9GOisTPvnt1Bczfseiaj0R/heHtogxNEtd3Wi5PhVZftmQ
+Puz22bXRdKa75dMHA1/dC07OXHQ+9Uhf1j1Wc2K57dyX29zVxx0y62rd3bA+dVCZ
+7+jwFuTo45DVis8CHn43FDt71+OZ72dmLH7rz9I7vGUt9XH1zp+t8XcuvYZlEtP7
+fqkt9l0TozPcfPpEcxU4wSR99NZw4LhuI3IkdLhmeXvYX7r+oZd+vEZcaE9pCDve
+FfD7D8ZjV8bR1N6H545+fbQwWFnLyPFGNkb9GdS5npM4F5a0ozwCT53ZY7u3zbRQ
+GNKlq7428ULyiidke0YaNd3d07puZOMSbk4nhzqe65vc/3LFM4mbej7/dfLgZef7
+sYMTVNLWV+IrTj5qVrrSUupGz2+x7Xywv/J22E97yeQ7395Aur6BjoaVitjOuinP
+/UNni91LoyW55V0b95U/rh/q/BsHAcdH
+=l3Gc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tpepin
+
+==================================================================
